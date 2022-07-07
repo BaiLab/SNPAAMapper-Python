@@ -1,0 +1,6 @@
+vcfFile=007_crop.vcf
+intronBoundary=6
+geneAnnotation=ChrAll_knownGene.txt
+conversionFile=kgXref.txt
+sequenceFile=hg19_CDSIntronWithSign.txt.out
+
