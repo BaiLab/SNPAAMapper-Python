@@ -76,6 +76,8 @@ OR run the following steps in sequential order:
 3. Barba, M., Czosnek, H. and Hadidi, A., 2014. Historical Perspective, Development and Applications of Next-Generation Sequencing in Plant Virology. Viruses, 6(1), pp.106-136. doi: 10.3390/v6010106
 4. Bai, Y. and Cavalcoli, J., 2013. SNPAAMapper: An efficient genome-wide SNP variant analysis pipeline for next-generation sequencing data. Bioinformation, [online] 9(17), pp.870-872. Available at: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3819573/>. doi: 10.6026/97320630009870
 5. Landrum, M., Lee, J., Benson, M., Brown, G., Chao, C., Chitipiralla, S., Gu, B., Hart, J., Hoffman, D., Hoover, J., Jang, W., Katz, K., Ovetsky, M., Riley, G., Sethi, A., Tully, R., Villamarin-Salomon, R., Rubinstein, W. and Maglott, D., 2015. ClinVar: public archive of interpretations of clinically relevant variants. Nucleic Acids Research, [online] 44(D1), pp.D862-D868. Available at: https://doi.org/10.1093/nar/gkv1222
+6. Li, H., B. Handsaker, A. Wysoker, T. Fennell, J. Ruan, N. Homer, G. Marth, G. Abecasis, and R. Durbin. “The Sequence Alignment/Map Format and SAMtools.” Bioinformatics 25, no. 16 (2009): 2078–79. https://doi.org/10.1093/bioinformatics/btp352. 
+
 
 ## License
 
